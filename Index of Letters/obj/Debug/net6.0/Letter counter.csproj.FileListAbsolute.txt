@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\bin\Debug\net6.0\Letter counter.exe
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\bin\Debug\net6.0\Letter counter.deps.json
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\bin\Debug\net6.0\Letter counter.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\bin\Debug\net6.0\Letter counter.dll
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\bin\Debug\net6.0\Letter counter.pdb
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\Letter counter.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\Letter counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\Letter counter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\Letter counter.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\Letter counter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\Letter counter.dll
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\refint\Letter counter.dll
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\Letter counter.pdb
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\Letter counter.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Files, Directories and Exceptions\Index of Letters\obj\Debug\net6.0\ref\Letter counter.dll
